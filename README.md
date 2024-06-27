@@ -11,18 +11,6 @@
     <b>10k views, 1k downloads on the App Store!</b>
   </em>
 </p>
-<p align="center">
-  <a href="https://github.com/search?q=repo%3Akwsong0113%2Fimagine++language%3ATypeScript&type=code" target="_blank">
-    <img src="https://img.shields.io/github/languages/top/kwsong0113/imagine" alt="Language">
-  </a>
-  <a href="https://apple.co/458U0ul" target="_blank">
-    <img src="https://img.shields.io/itunes/v/6449445087?logo=Apple&label=App%20Store" alt="App store">
-  </a>
-   <img src="https://img.shields.io/badge/iOS-12.4+-blue?logo=Apple" alt="MIT license">
-  <a href="https://github.com/kwsong0113/imagine/blob/master/LICENSE" target="_blank">
-    <img src="https://img.shields.io/badge/License-MIT-teal.svg" alt="MIT license">
-  </a>
-</p>
 
 
 ## Getting Started
