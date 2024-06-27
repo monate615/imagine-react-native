@@ -4,14 +4,6 @@
    </a>
     <h3>Linky</h3>
 </div>
-<p align="center">
-  <em>
-    Gesture-based app launcher for iOS: Open apps & shortcuts quickly
-    <br/><br/>
-    <b>10k views, 1k downloads on the App Store!</b>
-  </em>
-</p>
-
 
 ## Getting Started
 ### Installation
