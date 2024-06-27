@@ -1,20 +1,3 @@
-[App Store]: https://apple.co/458U0ul
-[React Native]: https://github.com/facebook/react-native
-[TypeScript]: https://github.com/microsoft/TypeScript
-[Firebase]: https://github.com/invertase/react-native-firebase
-[CodePush]: https://github.com/microsoft/react-native-code-push
-[React Navigation]: https://github.com/react-navigation/react-navigation
-[i18next]: https://github.com/i18next/react-i18next
-[NativeBase]: https://github.com/GeekyAnts/NativeBase
-[Redux Persist]: https://github.com/rt2zz/redux-persist
-[Async Storage]: https://github.com/react-native-async-storage/async-storage
-[Redux Toolkit]: https://github.com/reduxjs/redux-toolkit
-[Reanimated]: https://github.com/software-mansion/react-native-reanimated
-[React Native Gesture Handler]: https://github.com/software-mansion/react-native-gesture-handler
-[React Native Skia]: https://github.com/Shopify/react-native-skia
-[$Q Recognizer]: https://depts.washington.edu/acelab/proj/dollar/qdollar.html
-
-
 <div align="center">
    <a href="https://apple.co/458U0ul">
      <img src="https://leafy-wisp-bfecb8.netlify.app/images/screenshot/github_preview.png" alt="Linky">
