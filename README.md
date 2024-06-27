@@ -24,27 +24,6 @@
   </a>
 </p>
 
-## About
-Linky is an open-source iOS app that empowers iPhone users to perform a multitude of tasks—such as opening apps, shortcuts, and URL schemes—by simply drawing a single gesture on a lock screen widget. With support for both English and Korean, Linky has over 500+ active users globally, having gained 10k views and 1k downloads on the [App Store].
-<br/><br/>
-The app is compatible with iOS 12.4 and above (iOS 16.0+ for the lock screen widget).
-
-<a href="https://apps.apple.com/us/app/linky-quick-app-launcher/id6449445087?itsct=apps_box_badge&amp;itscg=30200">
-  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1684800000" alt="Download on the App Store" height="60px">
-</a>
-
-## Features
-- **App**: Perform actions on Apple-made apps, settings, and third-party apps by simply drawing gestures.
-  - Can do various tasks like making calls or payments with a single intuitive gesture.
-  - ~100 apps supported
-- **Apple Shortcut**: Execute frequently used shortcuts with gestures
-- **Custom URL Scheme Support**: Linky extends support to custom URL Schemes, enabling interaction with unregistered apps.
-- **Statistics**: Review launched app records through Linky, gaining valuable insights into app interactions.
-
-## Preview
-
-https://github.com/kwsong0113/imagine/assets/53707540/d6675ad0-7f54-4fb3-af03-2822f045ecc4
-
 
 ## Getting Started
 ### Installation
