@@ -2,7 +2,6 @@
    <a href="https://apple.co/458U0ul">
      <img src="https://leafy-wisp-bfecb8.netlify.app/images/screenshot/github_preview.png" alt="Linky">
    </a>
-    <h3>Linky</h3>
 </div>
 
 ## Getting Started
