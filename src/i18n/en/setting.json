@@ -1,0 +1,44 @@
+{
+  "title": "Settings",
+  "description": "Choose options that suit your needs",
+  "theme": {
+    "title": "Theme",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "title": "Language"
+  },
+  "autolaunch": {
+    "title": "Auto Launch",
+    "caption": "Automatically execute actions",
+    "beta": "beta"
+  },
+  "blankCanvasButtonPosition": {
+    "title": "Gesture Drawing Screen",
+    "sheet_title": "Choose the button placement",
+    "none": "No buttons",
+    "bottom right": "Bottom right",
+    "bottom left": "Bottom left",
+    "mid right": "Mid right",
+    "mid left": "Mid left",
+    "top right": "Top right",
+    "top left": "Top left"
+  },
+  "reset": {
+    "title": "Reset",
+    "caption": "Delete all gestures and actions",
+    "bottomsheet": {
+      "title": "Reset?",
+      "description": "This action cannot be undone!",
+      "cancel": "Cancel",
+      "ok": "Reset",
+      "message": "Successfully Deleted!"
+    }
+  },
+  "help": {
+    "title": "Help",
+    "description": "How to smartly utilize the Linky app"
+  }
+}
